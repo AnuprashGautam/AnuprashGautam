@@ -35,7 +35,7 @@ Feel free to explore the folders and projects in this repository. Each project m
 I'm always eager to connect with fellow developers and enthusiasts. Feel free to reach out:
 
 - 📧 Email: anuprashgautam@hotmail.com
-- 💼 LinkedIn: [Anuprash Gautam](www.linkedin.com/in/anuprashgautam)
+- 💼 LinkedIn: [Anuprash Gautam](https://www.linkedin.com/in/anuprashgautam/)
 
 ## Acknowledgements 🙏
 
