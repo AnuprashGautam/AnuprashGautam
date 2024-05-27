@@ -1,10 +1,10 @@
-<center>
+<span style="text-align:center;">
   <h1>
-    <span >Hey there! 👋 I'm </span>
-    <span style="color: Grey;">Anuprash </span>
-    <span style="color: Orange;">Gautam 🧑‍💻</span>
+  <span style="font-size: 1.5em;">Hey there! 👋 </span>
+  <span style="color:Grey;font-size: 2em;">Anuprash </span>
+  <span style="color:Orange;font-size: 2em;">Gautam</span>
   </h1>
-</center>
+</span>
 
 
 ![My Quote](.\Assets\Quote.png)
@@ -13,6 +13,12 @@ Welcome to my corner of GitHub where I explore the realms of Artificial Intellig
 
 ## Skills & Tools 🛠️
 
+<img src="./Assets/c.png" alt="C" width="100" height="100">
+<img src="./Assets/html.png" alt="HTML" width="100" height="100">
+<img src="./Assets/css.png" alt="CSS" width="100" height="100">
+<img src="./Assets/react.png" alt="React" width="100" height="100">
+<img src="./Assets/git.png" alt="Git" width="100" height="100">
+<img src="./Assets/java.png" alt="Java" width="100" height="100">
 
 
 ## About Me ℹ️
