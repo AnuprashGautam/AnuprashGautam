@@ -13,6 +13,7 @@ Welcome to my corner of GitHub where I explore the realms of Artificial Intellig
 <img src="./Assets/react.png" alt="React" width="100" height="100">
 <img src="./Assets/git.png" alt="Git" width="100" height="100">
 <img src="./Assets/java.png" alt="Java" width="100" height="100">
+<img src="./Assets/python.png" alt="Python" width="100" height="100">
 </span>
 
 ## About Me ℹ️
