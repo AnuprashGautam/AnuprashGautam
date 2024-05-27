@@ -1,8 +1,19 @@
-# Hey there! 👋 I'm Anuprash Gautam 🧑‍💻
+<center>
+  <h1>
+    <span >Hey there! 👋 I'm </span>
+    <span style="color: Grey;">Anuprash </span>
+    <span style="color: Orange;">Gautam 🧑‍💻</span>
+  </h1>
+</center>
 
-![My Quote](
+
+![My Quote](.\Assets\Quote.png)
 
 Welcome to my corner of GitHub where I explore the realms of Artificial Intelligence, Machine Learning, and Web Development! 🚀
+
+## Skills & Tools 🛠️
+
+
 
 ## About Me ℹ️
 
