@@ -1,6 +1,6 @@
 # Hey there! 👋 I am Anuprash Gautam
 
-<img src="./Assets/Quote.png" alt="C" width="1922" height="503">
+<img src="./Assets/Quote.png" alt="C" width="1900" height="300">
 
 Welcome to my corner of GitHub where I explore the realms of Artificial Intelligence, Machine Learning, and Web Development! 🚀
 
