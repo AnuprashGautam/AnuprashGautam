@@ -1,25 +1,19 @@
-<span style="text-align:center;">
-  <h1>
-  <span style="font-size: 1.5em;">Hey there! 👋 </span>
-  <span style="color:Grey;font-size: 2em;">Anuprash </span>
-  <span style="color:Orange;font-size: 2em;">Gautam</span>
-  </h1>
-</span>
+# Hey there! 👋 I am Anuprash Gautam
 
-
-![My Quote](.\Assets\Quote.png)
+<img src="./Assets/Quote.png" alt="C" width="1922" height="503">
 
 Welcome to my corner of GitHub where I explore the realms of Artificial Intelligence, Machine Learning, and Web Development! 🚀
 
 ## Skills & Tools 🛠️
 
+<span>
 <img src="./Assets/c.png" alt="C" width="100" height="100">
 <img src="./Assets/html.png" alt="HTML" width="100" height="100">
 <img src="./Assets/css.png" alt="CSS" width="100" height="100">
 <img src="./Assets/react.png" alt="React" width="100" height="100">
 <img src="./Assets/git.png" alt="Git" width="100" height="100">
 <img src="./Assets/java.png" alt="Java" width="100" height="100">
-
+</span>
 
 ## About Me ℹ️
 
