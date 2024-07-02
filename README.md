@@ -1,6 +1,6 @@
 # Hey there! 👋 I am Anuprash Gautam
 
-![](https://komarev.com/ghpvc/?username=AnuprashGautam&abbreviated=true&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=AnuprashGauta&abbreviated=true&color=brightgreen)
 
 <img src="./Assets/Quote.png" alt="C" width="1900" height="300">
 
