@@ -1,5 +1,7 @@
 # Hey there! 👋 I am Anuprash Gautam
 
+![](https://komarev.com/ghpvc/?username=AnuprashGautam)
+
 <img src="./Assets/Quote.png" alt="C" width="1900" height="300">
 
 Welcome to my corner of GitHub where I explore the realms of Artificial Intelligence, Machine Learning, and Web Development! 🚀
