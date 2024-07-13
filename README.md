@@ -64,7 +64,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">
+## Skills
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -89,46 +89,52 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
-<img src="./Assets/java.png" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="100" />
 
 </div>
-<br><br>   
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <br>
 
-## About Me ℹ️
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img align='right' src='./Assets/octocat-anime.gif' width='150'>
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Projects ------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-- 🎓 I'm a college student majoring in Computer Science & Engineering with a focus on Artificial Intelligence.
-- 💡 Passionate about leveraging AI to solve real-world problems and exploring the endless possibilities of machine learning.
-- 📱 Love diving into web development, creating interfaces that solve problems and enhance user experiences.
 
-## What You'll Find Here 📚
+## Projects
 
-### Projects
-- 🤖 **Artificial Intelligence**: Projects exploring various AI concepts, from natural language processing to computer vision.
-- 🧠 **Machine Learning**: Implementations of machine learning algorithms and models for different applications.
-- 📱 **Web Development**: Websites built for different platforms, showcasing diverse functionalities.
 
-### Tutorials & Resources
-- 📝 I'll be sharing guides, tutorials, and resources on AI, ML, and Web Development to help others learn and grow.
+| Projects | Deployed Link | Repository | Tech Stack & Tools |
+|:---------|:-------------:|:----------:|:-------------------|
+| Weather App | [view](https://weather-application-nu-lemon.vercel.app/) | [repo](https://github.com/AnuprashGautam/Weather-Application) | `HTML` `CSS` `Node.js` `JavaScript` `React` `Postman` | 
+| EnRgy | - | [repo](https://github.com/AnuprashGautam/Project-EnRgy) | `HTML` `CSS` `JavaScript`| 
+| Portfolio | - | [repo](https://github.com/AnuprashGautam/Portfolio) | `HTML` `CSS` `Node.js` `React` | 
 
-## Getting Started 🛠️
+<br>
 
-Feel free to explore the folders and projects in this repository. Each project might have its own README with detailed instructions on how to use or contribute.
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-### Prerequisites
-- Basic understanding of programming concepts and the respective domains.
-
-### How to Contribute 🤝
-- 👩‍💻 Contributions are welcome! Whether it's bug fixes, enhancements, or new project ideas, feel free to open issues or pull requests.
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Let's Connect! ------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 ## Let's Connect! 🌐
 
 I'm always eager to connect with fellow developers and enthusiasts. Feel free to reach out:
+
+<div align="centre">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100"> -->
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100">
+<img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="100">
+<!-- <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"> -->
+<img src="./Assets/email_png.png" width="100">
+
+</div>
+
 
 - 📧 Email: anuprashgautam@hotmail.com
 - 💼 LinkedIn: [Anuprash Gautam](https://www.linkedin.com/in/anuprashgautam/)
