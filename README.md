@@ -21,6 +21,8 @@ Welcome to my corner of GitHub where I explore the realms of Artificial Intellig
 
 ## About Me ℹ️
 
+<img align='right' src='./Assets/octocat-anime.gif' width='150'>
+
 - 🎓 I'm a college student majoring in Computer Science & Engineering with a focus on Artificial Intelligence.
 - 💡 Passionate about leveraging AI to solve real-world problems and exploring the endless possibilities of machine learning.
 - 📱 Love diving into web development, creating interfaces that solve problems and enhance user experiences.
