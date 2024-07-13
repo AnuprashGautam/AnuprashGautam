@@ -19,7 +19,7 @@
 <!--- -- Who am I? ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Who am I?
+## Who am I? <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30">
 
 <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400">
 
@@ -39,7 +39,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <!--- -- Education ----------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Education
+## Education <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30">
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
 
@@ -64,7 +64,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## Skills
+## Skills <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30">
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -102,7 +102,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## Projects
+## Projects <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">
 
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
@@ -119,9 +119,9 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <!--- -- Let's Connect! ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Let's Connect! 🌐
+## Let's Connect! <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
+I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
 <div align="centre">
 
@@ -144,7 +144,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## Statistics
+## Statistics <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30">
 
 <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en&layout=compact" alt="Anuprash Gautam" />
 
@@ -156,4 +156,4 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw">
