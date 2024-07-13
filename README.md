@@ -9,28 +9,80 @@
 <br><a href="https://github.com/Anmol-Baranwal/GIFs-For-Readme"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a>
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-</div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
----
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Menu ---------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 # [Menu](#menu)
+- [Who am I?](#who-am-i)
+- [Education](#eductaion)
+- [Experience](#experience)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Badges](#badges)
+- [Contact Me](#contact-me)
+- [Statistics](#statistics)
+  
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Who am I? ----------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## [Who am I?](#who-am-i)
+
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3b4607a1-1cc6-41f1-926f-892ae880e7a5" width="400">
+
+I'm Anuprash Gautam, currently pursuing my Bachelor of Technology in Computer Science and Engineering with a specialization in Artificial Intelligence from a college in India.
+
+- 🎓 I'm passionate about learning the core concepts of _**Java Development**_ and _**Artificial Intelligence**_.
+- 💻 I actively contribute to open-source projects and believe in the power of collaborative coding.
+- 🌱 I'm dedicated to pushing my work regularly to maintain an organized coding environment and continuously improve my skills.
+
+Outside of coding, I enjoy exploring new technologies, reading tech blogs, and occasionally diving into travelling.
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Education ----------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
+## [Education](#education)
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="300">
+
+- **Bachelor of Technology in Computer Science and Engineering (AI)**
+  - [Meerut Institute of Engineering and Technology](https://miet.ac.in/)
+  - Currently pursuing
+
+- **Senior Secondary (Class 12th)**
+  - Board: CBSE
+  - Percentage: 83%
+
+- **Secondary (Class 10th)**
+  - Board: CBSE
+  - Percentage: 88%
+
+<br>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Skills -------------------------------------------------------------------------------------------------------------------------------------------- -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-Welcome to my corner of GitHub where I explore the realms of Artificial Intelligence, Machine Learning, and Web Development! 🚀
-
-<img src="https://komarev.com/ghpvc/?username=AnuprashGautam&abbreviated=true&color=brightgreen" alt="profile views" />
-
-<img src="./Assets/Quote.png" alt="C" width="1900" height="300">
-
-## Skills & Tools 🛠️
+## [Skills](#skills)
 
 <span>
 <img src="./Assets/c.png" alt="C" width="100" height="100">
