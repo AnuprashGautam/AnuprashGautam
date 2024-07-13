@@ -1,11 +1,8 @@
-# Hey there! 👋 I am Anuprash Gautam
-
-![](https://komarev.com/ghpvc/?username=AnuprashGautam&abbreviated=true&color=brightgreen)
-
-
-<img src="./Assets/Quote.png" alt="C" width="1900" height="300">
+# Hey there! 👋 I am Anuprash Gautam    <img align="right" src="https://komarev.com/ghpvc/?username=AnuprashGautam&abbreviated=true&color=brightgreen" alt="profile views" />
 
 Welcome to my corner of GitHub where I explore the realms of Artificial Intelligence, Machine Learning, and Web Development! 🚀
+
+<img src="./Assets/Quote.png" alt="C" width="1900" height="300">
 
 ## Skills & Tools 🛠️
 
