@@ -121,7 +121,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 
 ## Let's Connect! 🌐
 
-I'm always eager to connect with fellow developers and enthusiasts. Feel free to reach out:
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">I love connecting with different people so if you want to say hi, I'll be happy to meet you more! 😊
 
 <div align="centre">
 
@@ -133,13 +133,27 @@ I'm always eager to connect with fellow developers and enthusiasts. Feel free to
 [<img src="./Assets/email_png.png" width="110">](mailto:myselfsuryasen@gmail.com)
 <!-- <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100"> -->
 
-
 </div>
 
+<br>
 
-- 📧 Email: anuprashgautam@hotmail.com
-- 💼 LinkedIn: [Anuprash Gautam](https://www.linkedin.com/in/anuprashgautam/)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- -- Statistics ------------------------------------------------------------------------------------------------------------------------------------------ -->
+<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
+
 
 ## Statistics
+
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en&layout=compact" alt="Anuprash Gautam" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en" alt="Anuprash Gautam" /></p>
+
+<img align="center" src="https://github.com/ImSuryasen/ImSuryasen/blob/main/snake.svg">
+
+
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 
