@@ -140,16 +140,15 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## Statistics <img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="30">
+## Statistics <img src="./Assets/target-anime.gif" alt="target anime gif" width="30">
 
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en&layout=compact" alt="Anuprash Gautam" />
+<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en&layout=compact" alt="most used languages" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en" alt="Anuprash Gautam" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en" alt="Github stats" /></p>
 
-<img align="center" src="https://github.com/ImSuryasen/ImSuryasen/blob/main/snake.svg">
+<img align="center" src="./Assets/snake.svg" alt="snake runing through contributions">
 
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="./Assets/goodbye-message-marquee.svg" />
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100vw"> -->
+<!-- <img src="./Assets/fading-line.gif" alt="fading line gif" width="100vw"> -->
