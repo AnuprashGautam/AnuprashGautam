@@ -43,7 +43,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 
 ## Education <img src="./Assets/typing-anime.gif" alt="typing gif" width="30">
 
-<img align="right" src="./Assets/programmer-coding.gif" alt="programmer coding gif" width="300">
+<img align="right" src="./Assets/programmer-coding.gif" alt="programmer coding gif" width="400">
 
 - **Bachelor of Technology in Computer Science and Engineering (AI)**
   - [Meerut Institute of Engineering and Technology](https://miet.ac.in/)
