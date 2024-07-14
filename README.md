@@ -6,7 +6,9 @@
 # <img src="./Assets/celebrating-anime.png" width="50px" /> &nbsp; Anuprash Gautam &nbsp; <img src="./Assets/celebrating-anime.png" width="50px" />
 
 <a href="https://github.com/AnuprashGautam/AnuprashGautam/blob/main/README.md"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a> <a href="https://github.com/AnuprashGautam/AnuprashGautam/blob/main/README.md"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> <a href="https://github.com/AnuprashGautam/AnuprashGautam/blob/main/README.md"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a>  
-<br><a href="https://github.com/AnuprashGautam/AnuprashGautam/blob/main/README.md"><img src="https://forthebadge.com/images/badges/made-with-markdown.svg" width="230" height="30" alt="made with markdown badge"></a>
+
+![profile views](https://komarev.com/ghpvc/?username=AnuprashGautam&abbreviated=true&color=orange)
+
 </div>
 
 <img src="./Assets/banner.png" alt="banner" />
@@ -144,7 +146,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 <img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en&layout=compact" alt="most used languages" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en" alt="Github stats" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en" alt="Github stats" />
 
 <img align="center" src="./Assets/snake.svg" alt="snake runing through contributions">
 
