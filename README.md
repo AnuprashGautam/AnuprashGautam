@@ -50,6 +50,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
   - Currently pursuing
 
 - **Senior Secondary (Class 12th)**
+  - Computer Science with Python
   - Board: CBSE
   - Percentage: 83%
 
