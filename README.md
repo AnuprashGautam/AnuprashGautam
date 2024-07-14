@@ -72,7 +72,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <img src="./Assets/vscode-anime.gif" alt="vscode anime gif" width="100">
 <!-- <img src="./Assets/vue-anime.gif" alt="vue anime gif" width="100"> -->
 <img src="./Assets/node-anime.gif" alt="node anime gif" width="100">
-<img src="./Assets/node-anime.gif" alt="node anime gif" width="100">
+<img src="./Assets/react-anime.gif" alt="react anime gif" width="100">
 <!-- <img src="./Assets/sublime-anime.gif" alt="sublime anime gif" width="100"> -->
 <!-- <img src="./Assets/angular-anime.gif" alt="angular anime gif" width="100"> -->
 <img src="./Assets/angular-anime.gif" alt="angular anime gif" width="100">
@@ -85,7 +85,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <img src="./Assets/pycharm-anime.gif" alt="pycharm anime gif" width="100">
 <img src="./Assets/mongodb-anime.gif" alt="mongodb anime gif" width="100">
 <img src="./Assets/c-anime.gif" alt="c anime gif" width="100">
-<img src="./Assets/java-anime.gif" alt="java anime gif" width="100" />
+<img src="./Assets/java-anime.png" alt="java anime png" width="100" />
 
 </div>
 
@@ -98,7 +98,7 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
 
-## Projects <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c0eef4b-7b75-42bd-9722-4bea97a2d532" width="30">
+## Projects <img src="./Assets/rocket-anime.gif" alt="rocket anime gif" width="30">
 
 
 | Projects | Deployed Link | Repository | Tech Stack & Tools |
