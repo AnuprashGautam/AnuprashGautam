@@ -145,13 +145,16 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ## Statistics <img src="./Assets/target-anime.gif" alt="target anime gif" width="30">
 
-<a>
- <img height="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuprashGautam&show_icons=true&layout=compact&border_color=808080" />
-</a>
+<div style="text-align: center;">
+  <a style="display: inline-block; margin-right: 10px;">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuprashGautam&show_icons=true&layout=compact&border_color=808080" />
+  </a>
 
-<a>
- <img height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&border_color=808080&card_width=200" />
-</a>
+  <a style="display: inline-block;">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&border_color=808080&card_width=200" />
+  </a>
+</div>
+
 
 <div align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&layout=compact&langs_count=8&border_color=808080&card_width=400" />
