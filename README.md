@@ -145,11 +145,22 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ## Statistics <img src="./Assets/target-anime.gif" alt="target anime gif" width="30">
 
-<img  align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en&layout=compact" alt="most used languages" />
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/AnuprashGautam">
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&layout=compact&langs_count=8&card_width=75" />
+  </a>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&locale=en" alt="Github stats" />
+  <a href="https://github.com/AnuprashGautam">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&card_width=125" />
+  </a>
 
-<img align="center" src="./Assets/snake.svg" alt="snake runing through contributions">
+  <a href="https://github.com/AnuprashGautam">
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuprashGautam&show_icons=true&layout=compact&card_width=150" />
+  </a>
+</div>
+
+
+<img align="centre" src="./Assets/snake.svg" alt="snake runing through contributions" />
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="./Assets/goodbye-message-marquee.svg" />
