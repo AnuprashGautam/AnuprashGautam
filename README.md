@@ -145,22 +145,17 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ## Statistics <img src="./Assets/target-anime.gif" alt="target anime gif" width="30">
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/AnuprashGautam">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&layout=compact&langs_count=8&card_width=75" />
-  </a>
+<img height="200" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuprashGautam&show_icons=true&layout=compact" />
 
-  <a href="https://github.com/AnuprashGautam">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&card_width=125" />
-  </a>
+<img height="200" align="right" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam" />
 
-  <a href="https://github.com/AnuprashGautam">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuprashGautam&show_icons=true&layout=compact&card_width=150" />
-  </a>
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&layout=compact&langs_count=8" />
 </div>
 
 
-<img align="centre" src="./Assets/snake.svg" alt="snake runing through contributions" />
+
+<img align="center" src="./Assets/snake.svg" alt="snake runing through contributions" />
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="./Assets/goodbye-message-marquee.svg" />
