@@ -147,11 +147,11 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 <div style="text-align: center;">
   <a style="display: inline-block;">
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuprashGautam&show_icons=true&layout=compact&border_color=808080&card_width=200"  />
+    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuprashGautam&show_icons=true&layout=compact&border_color=808080"  />
   </a>
 
   <a style="display: inline-block;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&border_color=808080&card_width=200" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&border_color=808080" />
   </a>
 </div>
 
