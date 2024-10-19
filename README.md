@@ -160,6 +160,8 @@ I love connecting with different people so if you want to say hi, I'll be happy 
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&layout=compact&langs_count=8&border_color=808080&card_width=400" />
 </div>
 
+[![Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnuprashGautam&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/AnuprashGautam)
+
 
 
 <img align="center" src="./Assets/snake.svg" alt="snake runing through contributions" />
