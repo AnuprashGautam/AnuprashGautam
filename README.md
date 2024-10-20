@@ -164,7 +164,7 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 
 
-<img align="center" src="./Assets/snake.svg" alt="snake runing through contributions" />
+<!-- <img align="center" src="./Assets/snake.svg" alt="snake runing through contributions" /> -->
 
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="./Assets/goodbye-message-marquee.svg" />
