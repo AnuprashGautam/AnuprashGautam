@@ -155,11 +155,13 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 </div>
 -->
 
-<div style="text-align: center;">
-    <a style="display: inline-block;">
+<div>
+    <a align="center">
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&border_color=808080&card_width=275" />
     </a>
-    
+</div>
+
+<div >
     <a align="center">
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&layout=compact&langs_count=8&border_color=808080&card_width=400" />
     </a>
