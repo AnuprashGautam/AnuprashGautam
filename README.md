@@ -145,15 +145,12 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ## Statistics <img src="./Assets/target-anime.gif" alt="target anime gif" width="30">
 
-<!-- Had to comment down the api because it had been unoperational.  -->
-
-<!--
 <div style="text-align: center;">
   <a style="display: inline-block;">
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnuprashGautam&show_icons=true&layout=compact&border_color=808080&card_width=275"  />
   </a>
 </div>
--->
+
 
 <div>
     <a align="center">
