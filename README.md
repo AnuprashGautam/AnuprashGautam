@@ -7,8 +7,6 @@
 
 <a href="https://github.com/AnuprashGautam/AnuprashGautam/blob/main/README.md"><img src="https://forthebadge.com/images/badges/built-with-love.svg" width="130" alt="made with love  markdown badge" ></a> <a href="https://github.com/AnuprashGautam/AnuprashGautam/blob/main/README.md"><img src="https://forthebadge.com/images/badges/built-with-swag.svg" width="130" alt="made with swag markdown badge"></a> <a href="https://github.com/AnuprashGautam/AnuprashGautam/blob/main/README.md"><img src="https://forthebadge.com/images/badges/open-source.svg" width="130" height="30" alt="open source  markdown badge"></a>  
 
-![profile views](https://komarev.com/ghpvc/?username=AnuprashGautam&abbreviated=true&color=orange)
-
 </div>
 
 <img src="./Assets/banner.png" alt="banner" />
@@ -25,9 +23,9 @@
 
 <img align="right" src="./Assets/happy-codder.gif" alt="happy codder gif" width="400">
 
-I'm **Anuprash Gautam**, currently pursuing my Bachelor of Technology in Computer Science and Engineering with a specialization in _**Artificial Intelligence**_ from a college in India.
+I'm **Anuprash Gautam**, working as an SDE at AVL. I have a  Bachelor of Technology in Computer Science and Engineering with a specialization in _**Artificial Intelligence**_ from a college in India.
 
-- 🎓 I'm passionate about learning the core concepts of _**Java Development**_ and _**Artificial Intelligence**_.
+- 🎓 I'm passionate about learning the core concepts of _**Software Engineering**_ and _**Artificial Intelligence**_.
 - 💻 I actively contribute to open-source projects and believe in the power of collaborative coding.
 - 🌱 I'm dedicated to pushing my work regularly to maintain an organized coding environment and continuously improve my skills.
 
@@ -48,15 +46,6 @@ Outside of coding, I enjoy exploring new technologies, reading tech blogs, and o
 - **Bachelor of Technology in Computer Science and Engineering (AI)**
   - [Meerut Institute of Engineering and Technology](https://miet.ac.in/)
   - Currently pursuing
-
-- **Senior Secondary (Class 12th)**
-  - Computer Science with Python
-  - Board: CBSE
-  - Percentage: 83%
-
-- **Secondary (Class 10th)**
-  - Board: CBSE
-  - Percentage: 88%
 
 <br>
 
@@ -145,13 +134,6 @@ I love connecting with different people so if you want to say hi, I'll be happy 
 
 ## Statistics <img src="./Assets/target-anime.gif" alt="target anime gif" width="30">
 
-<div style="text-align: center;">
-  <a style="display: inline-block;">
-    <img height="200" src="https://api.franznkemaka.com/github-streak/stats/anuprashgautam"  />
-  </a>
-</div>
-
-
 <div>
     <a align="center">
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnuprashGautam&border_color=808080&card_width=275" />
@@ -163,9 +145,6 @@ I love connecting with different people so if you want to say hi, I'll be happy 
       <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnuprashGautam&layout=compact&langs_count=8&border_color=808080&card_width=400" />
     </a>
 </div>
-
-[![Daily Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnuprashGautam&bg_color=ffffff&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/AnuprashGautam)
-
 
 
 <!-- <img align="center" src="./Assets/snake.svg" alt="snake runing through contributions" /> -->
